@@ -18,7 +18,8 @@ blogger_id: tag:blogger.com,1999:blog-7412347503688821952.post-13802129082793282
 blogger_orig_url: https://melidapotts.blogspot.com/2019/11/can-you-still-sell-your-home-in-winter.html
 ---
 {% include youtube.html %}
-You missed the chance to sell in the spring and summer markets, but is it too late to sell in the winter? Find out today.
+
+<p style="text-align: center;"><em>You missed the chance to sell in the spring and summer markets, but is it too late to sell in the winter? Find out today.</em></p>
 
 If you missed your shot at selling your home in the spring and summer markets, can you still sell in the winter? Here’s what the numbers say:
 
