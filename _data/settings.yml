@@ -1,10 +1,10 @@
 audit_header: false
 title: Atlanta Real Estate Video Blog with Melida Potts
 description: Our mission at The Potts Realty Team is to be your best resource for Atlanta real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The The Potts Realty Team, your professional Atlanta Real Estate Agents.
-show_custom_links: true
+show_custom_links: false
 custom_links:
-  - title: Website 
-    url: https://homes-4-atlanta.com/
+  - title: 
+    url: 
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
