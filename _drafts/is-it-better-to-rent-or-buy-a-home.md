@@ -22,7 +22,7 @@ youtube_code: 5G7NdPyOEiQ
 
 {% include youtube.html %}
 
-Homebuyers—especially younger homebuyers—frequently ask if it’s better to buy or rent a home. Here’s my take on the subject.
+<p style="text-align: center;"><em>Homebuyers—especially younger homebuyers—frequently ask if it’s better to buy or rent a home. Here’s my take on the subject.</em></p>
 
 Should you buy or rent a home?
 
