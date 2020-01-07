@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Better to Rent or Buy a Home?
-date: 2020-01-07 15:38:14
+date: 2020-01-07 15:38:00
 tags:
   - Home Buyer Tips
   - Real Estate
