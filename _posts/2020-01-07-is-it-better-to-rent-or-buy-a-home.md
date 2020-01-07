@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Is It Better to Rent or Buy a Home?
-date:
+date: 2020-01-07 15:38:14
 tags:
   - Home Buyer Tips
   - Real Estate
@@ -22,7 +22,7 @@ youtube_code: 5G7NdPyOEiQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Homebuyers—especially younger homebuyers—frequently ask if it’s better to buy or rent a home. Here’s my take on the subject.</em></p>
+*Homebuyers—especially younger homebuyers—frequently ask if it’s better to buy or rent a home. Here’s my take on the subject.*
 
 Should you buy or rent a home?
 
