@@ -22,13 +22,13 @@ youtube_code: 5G7NdPyOEiQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Homebuyers—especially younger homebuyers—frequently ask if it’s better to buy or rent a home. Here’s my take on the subject.</em></p>
+*Homebuyers—especially younger homebuyers—frequently ask if it’s better to buy or rent a home. Here’s my take on the subject.*
 
 Should you buy or rent a home?
 
 There are many ways to approach this question, but today I’ll focus on just two: Which is easier? Which is the more stable and profitable option over the long term?
 
-Obviously, **it’s easier to rent a home.** You have a maintenance person available to take care of any repair requests. When you own your own home, you’re the maintenance person. Though renting is easier, that doesn’t mean it’s necessarily the better option.
+I**t’s easier to rent a home.** You have a maintenance person available to take care of any repair requests. When you own your own home, you’re the maintenance person. Though renting is easier, that doesn’t mean it’s necessarily the better option.
 
 Now, is it feasible to buy a home in today’s market? **Yes, it is\!** Back in 2009, many people were so shocked by what the market had done that they vowed they would never buy a home—some had lost 10%, 15%, 20%, or even 50% of their market value\! Today in 2019, we have gained all that lost value back and gained up to 30% on top of those losses.
 
