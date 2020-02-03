@@ -1,7 +1,7 @@
 ---
 layout: post
 title: North Atlanta By the Numbers
-date: 2020-02-03 20:08:17
+date: 2020-02-03 20:08:00
 tags:
   - Real Estate
   - Market Update
