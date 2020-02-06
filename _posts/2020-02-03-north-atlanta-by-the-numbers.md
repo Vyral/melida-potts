@@ -12,14 +12,13 @@ pullquote: 'As spring brings warmer weather, more buyers will enter the market.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/melida-the-latest-market-stats-from-north-atlanta-youtube.jpg
+youtube_alternate_image: /uploads/melida-the-latest-market-stats-from-north-atlanta-youtube-1.jpg
 youtube_code: 7Zg_CMsYvCU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>According to the latest numbers, it’s a great time to sell in North Atlanta.</em></p>
-
+*According to the latest numbers, it’s a great time to sell in North Atlanta.*
 
 What are the latest numbers from our North Atlanta real estate market?
 
