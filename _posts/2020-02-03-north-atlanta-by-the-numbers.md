@@ -18,7 +18,8 @@ youtube_code: cAj0Da7eKLs
 
 {% include youtube.html %}
 
-*According to the latest numbers, it’s a great time to sell in North Atlanta.*
+<p style="text-align: center;"><em>According to the latest numbers, it’s a great time to sell in North Atlanta.</em></p>
+
 
 What are the latest numbers from our North Atlanta real estate market?
 
