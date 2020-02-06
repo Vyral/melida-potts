@@ -13,13 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/melida-the-latest-market-stats-from-north-atlanta-youtube.jpg
-youtube_code: cAj0Da7eKLs
+youtube_code: 7Zg_CMsYvCU
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>According to the latest numbers, it’s a great time to sell in North Atlanta.</em></p>
-
+*According to the latest numbers, it’s a great time to sell in North Atlanta.*
 
 What are the latest numbers from our North Atlanta real estate market?
 
