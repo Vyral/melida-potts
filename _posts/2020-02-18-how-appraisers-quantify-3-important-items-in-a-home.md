@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Appraisers Quantify 3 Important Items in a Home
-date:
+date: 2020-02-18 17:12:00
 tags:
   - Real Estate
 excerpt: 'Here is how appraisers define bedrooms, bathrooms, and square footage.'
