@@ -17,7 +17,8 @@ youtube_code: AhKB3ywkgyM
 
 {% include youtube.html %}
 
-*Here is how appraisers define bedrooms, bathrooms, and square footage.*
+<p style="text-align: center;"><em>Here is how appraisers define bedrooms, bathrooms, and square footage.</em></p>
+
 
 Just about every home we Realtors sell has an appraisal that’s ordered by the bank or a cash buyer who needs assurance that they’re paying a fair price. How do appraisers think, though? To explain this, I’ll tell you how appraisers quantify three important items in a home:
 
