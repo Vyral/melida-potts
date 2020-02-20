@@ -17,11 +17,11 @@ youtube_code: AhKB3ywkgyM
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Here is how appraisers define bedrooms, bathrooms, and square footage.</em></p>
+*Here is how appraisers define bedrooms, bathrooms, and square footage.*
 
 Just about every home we Realtors sell has an appraisal that’s ordered by the bank or a cash buyer who needs assurance that they’re paying a fair price. How do appraisers think, though? To explain this, I’ll tell you how appraisers quantify three important items in a home:
 
-**1\. Bedrooms.** A bedroom has to have a closet, a window, and a door—two ways to escape in case of a fire. If a room doesn’t have a window and a door, it’s not considered a bedroom. It can be considered any type of room, and there’s still value to it, but it can’t be considered a bedroom.&nbsp;
+**1\. Bedrooms.** A bedroom has to have a closet, a window, and a door—two ways to escape in case of a fire. If a room doesn’t have a window and a door, it’s not considered a bedroom. It can be considered any other type of room, and there’s still value to it, but it can’t be considered a bedroom.&nbsp;
 
 **2\. Bathrooms.** If it only has a shower, or only a bathtub, or only a shower and bathtub, it’s still considered a bathroom.&nbsp;
 
